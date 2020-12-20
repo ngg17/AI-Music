@@ -60,8 +60,8 @@ function draw() {
 	song1_status = song1.isPlaying();
 	song2_status = song2.isPlaying();
 
-	fill("#FF0000");
-	stroke("#FF0000");
+	fill("#FFA500");
+    stroke("#FF0000");
 
 	if(scoreRightWrist > 0.2)
 	{ 
